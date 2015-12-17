@@ -1,3 +1,14 @@
+### Лицензионные соглашения
+
+На виртуальной машине установлено ПО имеющее различные лицензионные соглашения.
+
+Лицензии ОС Debian и компонентов из её репозиториев (https://www.debian.org/): https://www.debian.org/legal/licenses/
+Лицензии продуктов Eclipse Foundations (https://eclipse.org/home/index.php): https://eclipse.org/legal/epl/notice.php
+Лицензия SmartGit (http://www.syntevo.com/smartgit/): https://www.syntevo.com/smartgit/license.html
+
+Используя образ виртуальной машины CanSat вы соглашаетесь с условиями лицензий программного обеспечения, установленного на нейю
+
+
 ### Инструкции по установке и использованию виртуальной машины с рабочим местом разработчика ПО для МК AVR
 
 1. Установка и настройка менеджера виртуальных машин VirtualBox 
