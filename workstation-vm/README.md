@@ -77,7 +77,7 @@
 #### 1.9
 - обновил системные пакеты
 - обновил smartgit
-- Обновил virtualbox guest additions
+- обновил virtualbox guest additions
 - очистил корзину(!)
-- добавил компилятор arm-linux-gnueabihf (https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian) для raspberry-pi
-- добавил workspace для эклипса с примером для удаленной отладка raspberry-pi
+- добавил тулчейн arm-linux-gnueabihf (https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian) для raspberry-pi
+- добавил workspace для эклипса с примером для удаленной отладки raspberry-pi
