@@ -2,10 +2,10 @@
 
 На виртуальной машине установлено ПО имеющее различные лицензионные соглашения. В том числе:
 
-Лицензии ОС Debian и компонентов из её репозиториев (https://www.debian.org/): https://www.debian.org/legal/licenses/
+* Лицензии ОС Debian и компонентов из её репозиториев (https://www.debian.org/): https://www.debian.org/legal/licenses/
 Лицензии продуктов Eclipse Foundations (https://eclipse.org/home/index.php): https://eclipse.org/legal/epl/notice.php
-Лицензия SmartGit (http://www.syntevo.com/smartgit/): https://www.syntevo.com/smartgit/license.html
-Лицензия Eagle CAD (https://www.autodesk.com/products/eagle): https://www.autodesk.com/products/eagle/free-download
+* Лицензия SmartGit (http://www.syntevo.com/smartgit/): https://www.syntevo.com/smartgit/license.html
+* Лицензия Eagle CAD (https://www.autodesk.com/products/eagle): https://www.autodesk.com/products/eagle/free-download
 
 Используя данный образ виртуальной машины вы соглашаетесь с условиями лицензий программного обеспечения, установленного на ней.
 
