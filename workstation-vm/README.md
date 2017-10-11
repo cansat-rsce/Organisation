@@ -5,6 +5,7 @@
 Лицензии ОС Debian и компонентов из её репозиториев (https://www.debian.org/): https://www.debian.org/legal/licenses/
 Лицензии продуктов Eclipse Foundations (https://eclipse.org/home/index.php): https://eclipse.org/legal/epl/notice.php
 Лицензия SmartGit (http://www.syntevo.com/smartgit/): https://www.syntevo.com/smartgit/license.html
+Лицензия Eagle CAD (https://www.autodesk.com/products/eagle): https://www.autodesk.com/products/eagle/free-download
 
 Используя данный образ виртуальной машины вы соглашаетесь с условиями лицензий программного обеспечения, установленного на ней.
 
@@ -25,7 +26,7 @@
 
 2. Загрузка и настройка образа виртуальной машины.
 
-    Образ виртуальной машины доступен по ссылке:  https://drive.google.com/open?id=0BwFUZdsGglbhUXBhSHdKRkFNbkk (1.4 Гб)
+    Образ виртуальной машины доступен по ссылке:  https://drive.google.com/open?id=0BwFUZdsGglbhQ25OQm12d3FnSzg (2.1 Гб)
     
     Его импорт в VirtualBox можно запустить либо двойным кликом по файлу образа, либо из главного окна `VirtualBox Менеджер` (Файл->Импорт Конфигураций). Во время импорта не требуется указывать каких-либо особых настроек (опять жмем далее, далее, готово).
 
@@ -62,3 +63,21 @@
 - установил последнюю версию smartgit
 - обновил virtualbox-guest-additions
 - сжал виртуальный диск машины
+
+#### 1.8
+- Все обновил
+- Добавил софт для разработки на ARM микроконтроллеры: eclipse-neon + gnu arm eclipse plugin, arm-none-eabi-gcc, arm-none-eabi-gdb, openocd
+- Сжал виртуальный диск машины
+
+
+#### 1.8.1
+- Обновил эклипс
+
+
+#### 1.9
+- обновил системные пакеты
+- обновил smartgit
+- Обновил virtualbox guest additions
+- очистил корзину(!)
+- добавил компилятор arm-linux-gnueabihf (https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian) для raspberry-pi
+- добавил workspace для эклипса с примером для удаленной отладка raspberry-pi
